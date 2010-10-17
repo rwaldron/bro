@@ -1,8 +1,11 @@
 What's Up Bro?
 ==============
 
-#jqcon
-------
+jQuery Conf 2010 Broisms
+------------------------
 
-@rwaldron - What's Up Bro?<br>
-@F1LT3R - yo! this is awesome!!
+@rwaldron 	- Broseph<br>
+@rwaldron 	- Broseph and the Amazing Technicolor Dream Coat<br>
+@rwaldron 	- Poly-bro-pylene
+@rwaldron 	- Charles BROnson
+@F1LT3R 	- President BROosevelt
