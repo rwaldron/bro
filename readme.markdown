@@ -10,4 +10,4 @@ jQuery Conf 2010 Broisms
 @rwaldron 	- Charles BROnson<br>
 @F1LT3R 	- President BROosevelt<br>
 @F1LT3R 	- BROcoup!<br>
-@figital	- bro magnon<br>
+@figital	- <s>bro magnon</s> brodiac sign<br>
