@@ -1,8 +1,5 @@
-What's Up Bro?
-==============
-
-jQuery Conf 2010 Broisms
-------------------------
+jQuery Conf 2010 Broisms (genitally agnostic)
+---------------------------------------------
 
 @rwaldron 	- Broseph<br>
 @rwaldron 	- Broseph and the Amazing Technicolor Dream Coat<br>
