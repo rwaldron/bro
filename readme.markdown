@@ -11,3 +11,5 @@ jQuery Conf 2010 Broisms
 @F1LT3R 	- President BROosevelt<br>
 @F1LT3R 	- BROcoup!<br>
 @figital	- bro magnon<br>
+
+@ajpiano        - Object.brototype.hasOwnBroperty
