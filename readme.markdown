@@ -1,13 +1,14 @@
 jQuery Conf 2010 Broisms (genitally agnostic)
 ---------------------------------------------
 
-@rwaldron 	- Broseph<br>
-@rwaldron 	- Broseph and the Amazing Technicolor Dream Coat<br>
-@rwaldron 	- Poly-bro-pylene<br>
-@rwaldron 	- Charles BROnson<br>
-@F1LT3R 	- President BROosevelt<br>
-@F1LT3R 	- BROcoup!<br>
-@figital	- bro magnon<br>
-@gf3  - Bromosapien<br>
-@ajpiano  - Object.brototype.hasOwnBroperty<br>
-
+@rwaldron 	- Broseph
+@rwaldron 	- Broseph and the Amazing Technicolor Dream Coat
+@rwaldron 	- Poly-bro-pylene
+@rwaldron 	- Charles BROnson
+@F1LT3R 	- President BROosevelt
+@F1LT3R 	- BROcoup!
+@figital	- bro magnon
+@gf3  - Bromosapien
+@ajpiano  - Object.brototype.hasOwnBroperty
+@rwaldron - Brohemian Rhapsody
+@rwaldron - Barack Brobama
